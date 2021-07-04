@@ -241,7 +241,8 @@ cron "0 0-16/8 * * *" script-path=https://raw.githubusercontent.com/hyzaw/script
           } else {
             $.getExchangeRewardsRes = {};
             if (safeGet(data)) {
-                console.log(`${JSON.parse(data)}`)
+                  console.log(data)
+                console.log(`${JSON.stringify(data)}`)
               $.getExchangeRewardsRes = JSON.parse(data);
             }
           }
