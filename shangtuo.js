@@ -3,12 +3,10 @@
 
 下载地址：
 复制链接后，在微信里打开：
-https://shatuvip.com/pages/login/register?recom_code=5290130
+https://shatuvip.com/pages/login/register?recom_code=5181032
+注册后可下载app
 
-或微信扫描二维码下载
-https://raw.githubusercontent.com/leafxcy/JavaScript/main/shangtuo.jpg
-
-推荐码: 5290130
+推荐码: 5181032
 
 自动看广告，得分红金和抢券。抢到的券可以出售然后提现，最低提现0.5。分红金每日会产生分红，但是需要满88才能提现
 脚本满0.5自动提现，提现需要上传支付宝和微信收款码
